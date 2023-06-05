@@ -2,9 +2,9 @@
 A simple Python application that reads a .csv file, formats all the data from each rows, then writes the result to a .sql file
 
 ## Disclaimer
-I only formatted to cover VARCHAR, INT, DOUBLE, and DATE data types
+I only programmed formatting for VARCHAR, INT, DOUBLE, and DATE data types
 
-If your table contains other data types then this will likely not work for. But feel free to adjust it to your needs
+If your table contains other data types then this will likely not work for you. But feel free to adjust it to your needs
 
 ## How to Use
 1. Replace the games.csv with a your own csv
